@@ -3,10 +3,16 @@ Problem Statement:
 
 PROCESS OF CREATING THE REPORT:
   - STEP 1: Executed ETL processes
-          - Tools Used: Power Query in Excel
-          - Extracted the data from folder, and performed data tranformations to ensure clean and reliable data.
+           - Tools Used: Power Query in Excel
+           - Extracted the data from folder, and performed data tranformations to ensure clean and reliable data.
+    
+  - STEP 2: Created a Date Table.
+  
+           - Tools Used: Power Query in Excel
+           - Created a date table to analyze data over a period of 3 years, to identify any trends.
 
-  - STEP 2: Created a Data Model
+  - STEP 3: Created a Data Model
+            Tools Used: Power Pivot in Excel
             
 
 
