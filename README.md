@@ -32,3 +32,5 @@
 - Applied **DAX formulas** to create calculated columns and measures.
 - Designed Reports based on a dataset exceeding **one million records**.
 - Managed **data integrity** by handling missing and duplicate values.
+
+  AtliQ Hardware Sales Report.pdf
