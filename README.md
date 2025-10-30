@@ -2,9 +2,9 @@
 Problem Statement:
 
 PROCESS OF CREATING THE REPORT:
-  STEP 1: Executed ETL processes
-  Tools Used: Power Query in Excel
-  Extracted the data from folder, and performed data tranformations to ensure clean and reliable data.
+  -STEP 1: Executed ETL processes
+           *Tools Used: Power Query in Excel
+           *Extracted the data from folder, and performed data tranformations to ensure clean and reliable data.
 
 
 
